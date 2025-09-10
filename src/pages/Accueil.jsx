@@ -10,9 +10,9 @@ function Accueil() {
         // list
     },[])
 
-    
+
   return (
-    <div>
+    <div className='accueil'>
         <h1>Bienvenu dans notre site</h1>
 
         <br />
